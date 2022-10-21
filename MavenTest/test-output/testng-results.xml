@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T18:20:33 IST" name="Default suite" finished-at="2022-10-20T18:20:42 IST" duration-ms="8490">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T18:20:33 IST" name="Default test" finished-at="2022-10-20T18:20:42 IST" duration-ms="8490">
+      <class name="baseClass.BaseClass">
+        <test-method signature="OpenBrowser()[pri:0, instance:baseClass.BaseClass@2f7298b]" started-at="2022-10-20T18:20:33 IST" name="OpenBrowser" finished-at="2022-10-20T18:20:41 IST" duration-ms="7753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="CheckReleaseDate()[pri:1, instance:baseClass.BaseClass@2f7298b]" started-at="2022-10-20T18:20:41 IST" name="CheckReleaseDate" finished-at="2022-10-20T18:20:41 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReleaseDate -->
+        <test-method signature="CheckReleaseCountryName()[pri:2, instance:baseClass.BaseClass@2f7298b]" started-at="2022-10-20T18:20:41 IST" name="CheckReleaseCountryName" finished-at="2022-10-20T18:20:42 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReleaseCountryName -->
+        <test-method signature="closeBrowser()[pri:3, instance:baseClass.BaseClass@2f7298b]" started-at="2022-10-20T18:20:42 IST" name="closeBrowser" finished-at="2022-10-20T18:20:42 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- baseClass.BaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
